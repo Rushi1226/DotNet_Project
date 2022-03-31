@@ -1,0 +1,210 @@
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\DotNet_MiniProject.exe
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\DotNet_MiniProject.deps.json
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\DotNet_MiniProject.runtimeconfig.json
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\DotNet_MiniProject.runtimeconfig.dev.json
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\DotNet_MiniProject.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\ref\DotNet_MiniProject.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\DotNet_MiniProject.pdb
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Humanizer.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.csproj.AssemblyReference.cache
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.AssemblyInfoInputs.cache
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.AssemblyInfo.cs
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.csproj.CoreCompileInputs.cache
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.csproj.CopyComplete
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\obj\Debug\net5.0\ref\DotNet_MiniProject.dll
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.pdb
+D:\MiniProject_DotNet\DotNet_Mini_Project\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.genruntimeconfig.cache
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\DotNet_MiniProject.exe
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\DotNet_MiniProject.deps.json
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\DotNet_MiniProject.runtimeconfig.json
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\DotNet_MiniProject.runtimeconfig.dev.json
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\DotNet_MiniProject.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\ref\DotNet_MiniProject.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\DotNet_MiniProject.pdb
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Humanizer.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.csproj.AssemblyReference.cache
+D:\Mini_Project_new-main\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mini_Project_new-main\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.AssemblyInfoInputs.cache
+D:\Mini_Project_new-main\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.AssemblyInfo.cs
+D:\Mini_Project_new-main\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.csproj.CoreCompileInputs.cache
+D:\Mini_Project_new-main\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.csproj.CopyComplete
+D:\Mini_Project_new-main\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\obj\Debug\net5.0\ref\DotNet_MiniProject.dll
+D:\Mini_Project_new-main\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.pdb
+D:\Mini_Project_new-main\DotNet_MiniProject\obj\Debug\net5.0\DotNet_MiniProject.genruntimeconfig.cache
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\obj\Debug\net5.0\DotNet_MiniProject.csproj.AssemblyReference.cache
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\obj\Debug\net5.0\DotNet_MiniProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\obj\Debug\net5.0\DotNet_MiniProject.AssemblyInfoInputs.cache
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\obj\Debug\net5.0\DotNet_MiniProject.AssemblyInfo.cs
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\obj\Debug\net5.0\DotNet_MiniProject.csproj.CoreCompileInputs.cache
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\obj\Debug\net5.0\DotNet_MiniProject.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\obj\Debug\net5.0\ref\DotNet_MiniProject.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\obj\Debug\net5.0\DotNet_MiniProject.pdb
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\DotNet_MiniProject.exe
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\DotNet_MiniProject.deps.json
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\DotNet_MiniProject.runtimeconfig.json
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\DotNet_MiniProject.runtimeconfig.dev.json
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\DotNet_MiniProject.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\ref\DotNet_MiniProject.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\DotNet_MiniProject.pdb
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Humanizer.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\obj\Debug\net5.0\DotNet_MiniProject.csproj.CopyComplete
+D:\Mini_Project_new-main\DotNet_MiniProject _v1.1\obj\Debug\net5.0\DotNet_MiniProject.genruntimeconfig.cache
